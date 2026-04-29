@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "609908530622",
+    "project_id": "hasuno-dadec",
+    "storage_bucket": "hasuno-dadec.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:609908530622:android:916daca9182d67381dedef",
+        "android_client_info": {
+          "package_name": "com.example.mytask"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDsKDTk0UvtHGv7DLESN9GJ2JjaA6yBp4Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
